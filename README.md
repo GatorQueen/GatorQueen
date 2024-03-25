@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I try to incorporate all of my interests in my coding. Currently, I'm working on a database that encompasses my large crystal collection, and I hope to unveil it to other individuals of similar interest! I also decided to take a herbal plant medicine class to learn more about natural healing.
-I'm a mixed-media artist. In my spare time, I crochet and create cross-stitch patterns in my spare time.
+I'm a mixed-media artist. In my spare time, I crochet and create cross-stitch patterns.
 
 <!--
 **GatorQueen/GatorQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
